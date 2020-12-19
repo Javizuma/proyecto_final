@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.11.12)  20 DEC 2020 00:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.11.12)  20 DEC 2020 00:39
 entering extended mode
 **./M6_Villegas_Salmerón_Javier.tex
 (M6_Villegas_Salmerón_Javier.tex
@@ -138,10 +138,10 @@ Package pdftex.def Info: Cancer-prepuber.jpg  used on input line 47.
  [3] [4 <./cancer-prepuber.jpg> <./Cancer-prepuber.jpg>]
 File: cancer-prepuber.jpg Graphic file (type jpg)
 <use cancer-prepuber.jpg>
-Package pdftex.def Info: cancer-prepuber.jpg  used on input line 58.
+Package pdftex.def Info: cancer-prepuber.jpg  used on input line 71.
 (pdftex.def)             Requested size: 142.26378pt x 168.09377pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
@@ -149,22 +149,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--62
 <grafica.jpg, id=26, 209.28188pt x 143.03438pt>
 File: grafica.jpg Graphic file (type jpg)
 <use grafica.jpg>
-Package pdftex.def Info: grafica.jpg  used on input line 66.
+Package pdftex.def Info: grafica.jpg  used on input line 79.
 (pdftex.def)             Requested size: 142.26378pt x 97.22934pt.
-
-
-LaTeX Warning: Citation `Bruel2020433' undefined on input line 68.
-
-
-LaTeX Warning: Citation `Nachmanson2020' undefined on input line 69.
-
-
-LaTeX Warning: Citation `Roveto2021' undefined on input line 70.
-
-
-LaTeX Warning: Citation `Shigemizu2020' undefined on input line 71.
-
-(M6_Villegas_Salmerón_Javier.bbl
+ (M6_Villegas_Salmerón_Javier.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 14--39
 \OT1/cmtt/m/n/10.95 record [] .uri [] ?eid = 2 [] -s2 [] .0 [] -85085592783&doi
  = 10 [] .1111 % 2fcge []
@@ -237,7 +224,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--110
 33$
  []
 
-
+[6 <./grafica.jpg>]
 Underfull \hbox (badness 3428) in paragraph at lines 122--148
 []\OT1/cmr/m/n/10.95 Shigemizu, D., Akiyama, S., Hi-gaki, S., Sug-i-moto, T., S
 aku-rai,
@@ -274,31 +261,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 122--148
  [] -0&partnerID =
  []
 
-[6 <./grafica.jpg>]) [7] (M6_Villegas_Salmerón_Javier.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+) [7] (M6_Villegas_Salmerón_Javier.aux) ) 
 Here is how much of TeX's memory you used:
- 1703 strings out of 480898
- 24889 string characters out of 2898308
- 265889 words of memory out of 3000000
- 17608 multiletter control sequences out of 15000+200000
+ 1707 strings out of 480898
+ 24958 string characters out of 2898308
+ 265271 words of memory out of 3000000
+ 17612 multiletter control sequences out of 15000+200000
  538382 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,7n,25p,1164b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/javie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmbx12.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmbxti10.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/javie/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/javie/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ja
-vie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-<C:/Users/javie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmr17.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmti10.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on M6_Villegas_Salmerón_Javier.pdf (7 pages, 199113 bytes).
+ 30i,9n,25p,1164b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/javie/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/javie/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users
+/javie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.
+pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmmi8.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/javie/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/javie/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/javi
+e/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on M6_Villegas_Salmerón_Javier.pdf (7 pages, 199786 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
