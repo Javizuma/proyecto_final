@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.11.12)  20 DEC 2020 00:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.11.12)  20 DEC 2020 00:28
 entering extended mode
 **./M6_Villegas_Salmerón_Javier.tex
 (M6_Villegas_Salmerón_Javier.tex
@@ -124,28 +124,44 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 12.
  [1
 
-{C:/Users/javie/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] (M6_Vil
-legas_Salmerón_Javier.aux) ) 
+{C:/Users/javie/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+<cancer-prepuber.jpg, id=15, 252.945pt x 298.86656pt>
+File: cancer-prepuber.jpg Graphic file (type jpg)
+<use cancer-prepuber.jpg>
+Package pdftex.def Info: cancer-prepuber.jpg  used on input line 41.
+(pdftex.def)             Requested size: 142.26378pt x 168.09377pt.
+<Cancer-prepuber.jpg, id=16, 252.945pt x 298.86656pt>
+File: Cancer-prepuber.jpg Graphic file (type jpg)
+<use Cancer-prepuber.jpg>
+Package pdftex.def Info: Cancer-prepuber.jpg  used on input line 47.
+(pdftex.def)             Requested size: 142.26378pt x 168.09377pt.
+ [3] [4 <./cancer-prepuber.jpg> <./Cancer-prepuber.jpg>]
+File: cancer-prepuber.jpg Graphic file (type jpg)
+<use cancer-prepuber.jpg>
+Package pdftex.def Info: cancer-prepuber.jpg  used on input line 58.
+(pdftex.def)             Requested size: 142.26378pt x 168.09377pt.
+ [5]
+(M6_Villegas_Salmerón_Javier.aux) ) 
 Here is how much of TeX's memory you used:
- 1665 strings out of 480898
- 24207 string characters out of 2898308
+ 1680 strings out of 480898
+ 24500 string characters out of 2898308
  264889 words of memory out of 3000000
- 17579 multiletter control sequences out of 15000+200000
- 537561 words of font info for 41 fonts, out of 3000000 for 9000
+ 17591 multiletter control sequences out of 15000+200000
+ 537868 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,7n,25p,1129b,200s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/javie/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/javie/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/javie/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users
-/javie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.p
-fb><C:/Users/javie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr10.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr12.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on M6_Villegas_Salmerón_Javier.pdf (2 pages, 86560 bytes).
+ 30i,7n,25p,1164b,226s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/javie/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/javie/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/javie
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C
+:/Users/javie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmmi8.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmr10.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr12.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on M6_Villegas_Salmerón_Javier.pdf (5 pages, 148516 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
+ 48 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
